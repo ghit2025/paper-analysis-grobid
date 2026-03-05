@@ -1,0 +1,17 @@
+# Entornos virtuales
+env/
+.venv/
+venv/
+
+# Archivos temporales de Python (caché)
+__pycache__/
+*.pyc
+
+# Archivos de salida (generados por tu código)
+results/
+*.png
+*.json
+*.csv
+
+# Archivos del sistema operativo/editor
+.DS_Store

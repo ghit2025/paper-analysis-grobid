@@ -1,0 +1,16 @@
+site_name: Open-access Paper Analysis with GROBID
+site_description: Assignment for Artificial Intelligence and Open Science - UPM 2026
+site_author: Carlos Sainz
+repo_url: https://github.com/ghit2025/AI2026
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Usage: usage.md
+  - Validation: validation.md
+
+plugins:
+  - search

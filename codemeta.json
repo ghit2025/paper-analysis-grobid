@@ -21,9 +21,9 @@
     "matplotlib",
     "PyMuPDF"
   ],
-  "codeRepository": "https://github.com/ghit2025/AI2026",
-  "readme": "https://github.com/ghit2025/AI2026/blob/main/README.md",
-  "issueTracker": "https://github.com/ghit2025/AI2026/issues",
+  "codeRepository": "https://github.com/ghit2025/paper-analysis-grobid",
+  "readme": "https://github.com/ghit2025/paper-analysis-grobid/blob/main/README.md",
+  "issueTracker": "https://github.com/ghit2025/paper-analysis-grobid/issues",
   "author": [
     {
       "@type": "Person",

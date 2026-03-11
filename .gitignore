@@ -15,3 +15,7 @@ results/
 
 # Archivos del sistema operativo/editor
 .DS_Store
+
+# Outputs generados
+results/
+*.zip
